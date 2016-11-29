@@ -1,2 +1,4 @@
-# python-kata-quickstart
 Python Kata QuickStart
+=========================
+
+Basic structure for python katas.
